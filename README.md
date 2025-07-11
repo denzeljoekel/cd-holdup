@@ -7,3 +7,5 @@ To keep it plain and simple, this script had a few issues, and our Team fixed th
 - Config completely plug-n-play installed
 
 For further questions open a ticket at our discord server: http://discord.cobradevelopment.nl/
+
+This edit was made by: cobradevsebas (discord)
